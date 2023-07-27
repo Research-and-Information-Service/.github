@@ -1,4 +1,4 @@
-The Research and Information Service
+## The Research and Information Service
 
 The [Research and Information Service (RaISe)](http://www.niassembly.gov.uk/assembly-business/research-and-information-service-raise/find-out-about-raise/) aims to meet the information needs of the Assembly Members, their staff and the secretariat in an impartial, objective, timely and non-partisan manner. It employs subject specialists and library professionals to provide research and information support across the range of Assembly business areas.
 
